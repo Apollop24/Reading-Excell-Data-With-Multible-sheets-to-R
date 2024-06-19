@@ -1,4 +1,4 @@
-# Reading Excell Data With-Multiple Sheets to R
+# Reading Excell Data With Multiple Sheets to R
 
 
 This repository contains scripts for importing and analyzing Excel data in R. The data is loaded from multiple sheets of an Excel file into a list structure, allowing for easy access and manipulation of the data.
